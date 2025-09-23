@@ -1,0 +1,10 @@
+2025-09-22 20:18:08 - root - DEBUG - This is a debug message
+2025-09-22 20:18:08 - root - INFO - This is an info message
+2025-09-22 20:18:08 - root - WARNING - This is a warning
+2025-09-22 20:18:08 - root - ERROR - This is an error
+2025-09-22 20:18:08 - root - CRITICAL - This is critical
+2025-09-22 20:19:01 - root - DEBUG - This is a debug message
+2025-09-22 20:19:01 - root - INFO - This is an info message
+2025-09-22 20:19:01 - root - WARNING - This is a warning
+2025-09-22 20:19:01 - root - ERROR - This is an error
+2025-09-22 20:19:01 - root - CRITICAL - This is critical
